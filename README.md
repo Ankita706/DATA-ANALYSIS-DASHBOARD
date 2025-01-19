@@ -3,7 +3,7 @@ This project features a dynamic Power BI dashboard analyzing a global survey con
 
 ## Key Features:
 Interactive Dashboard: A user-friendly Power BI dashboard with interactive filters and visualizations.
-## Key Performance Indicators (KPIs): Highlighted metrics to quickly gauge key insights such as:
+### Key Performance Indicators (KPIs): Highlighted metrics to quickly gauge key insights such as:
 Most Used Tools: Identifying the top tools and technologies used by data professionals.
 Skill Trends: Emerging skills and competencies in the data industry.
 Regional Participation: Breakdown of survey participation by region.
