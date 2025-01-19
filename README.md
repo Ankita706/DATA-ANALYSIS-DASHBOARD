@@ -37,7 +37,7 @@ The dashboard highlights the growing importance of data visualization tools, a r
 - Download the Power BI report file (.pbix) from this repository.
 - Open the file in Power BI Desktop to explore the dashboard.
 - Use interactive filters and slicers to dive deeper into specific data segments.
-- 
+  
 ## Contributions:
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your enhancements or additional KPIs.
 
